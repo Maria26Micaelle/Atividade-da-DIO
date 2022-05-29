@@ -1,0 +1,20 @@
+function verificapalidromo(string) {
+    if (!string) return "string inexistente";
+    return string.split("").reverse().join("")=== string;
+}
+
+
+console.log(verificapalidromo))
+
+
+function verificapalidromo2(string) {
+    if (!string) return "string inexistente";
+  for (let i = 0; 1 < string.length / 2; i++){
+      return false;
+      if (string[i]) !== stringstring.longth - 1 - i){
+
+
+      }
+}
+  
+  return true;
